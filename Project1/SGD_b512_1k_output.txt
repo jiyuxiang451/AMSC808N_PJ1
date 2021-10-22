@@ -1,0 +1,58 @@
+Drive_SGD
+There are 6742 1's and 6265 7's in training data
+There are 1135 1's and 1028 7's in test data
+Initially: f = 3.493136e+01, nor(g) = 1.948851e+01
+iter 0: f = 2.133458e+01, norg = 1.467308e+01
+iter 1: f = 2.408196e+00, norg = 1.399374e+00
+iter 2: f = 2.239145e+00, norg = 9.556850e-01
+iter 3: f = 2.167106e+00, norg = 9.380986e-01
+iter 4: f = 2.117039e+00, norg = 8.897458e-01
+iter 5: f = 2.080595e+00, norg = 7.858041e-01
+iter 6: f = 2.054227e+00, norg = 7.399944e-01
+iter 7: f = 2.033417e+00, norg = 7.104048e-01
+iter 8: f = 2.016261e+00, norg = 6.716184e-01
+iter 9: f = 2.001931e+00, norg = 6.405667e-01
+iter 10: f = 1.989711e+00, norg = 6.245070e-01
+iter 11: f = 1.979047e+00, norg = 6.169179e-01
+iter 12: f = 1.969586e+00, norg = 6.131141e-01
+iter 13: f = 1.961087e+00, norg = 6.110019e-01
+iter 14: f = 1.953382e+00, norg = 6.096879e-01
+iter 15: f = 1.946346e+00, norg = 6.087742e-01
+iter 16: f = 1.939886e+00, norg = 6.080711e-01
+iter 17: f = 1.933926e+00, norg = 6.074800e-01
+iter 18: f = 1.928399e+00, norg = 6.069443e-01
+iter 19: f = 1.923251e+00, norg = 6.064272e-01
+iter 20: f = 1.918432e+00, norg = 6.059014e-01
+iter 21: f = 1.913904e+00, norg = 6.053441e-01
+iter 22: f = 1.909635e+00, norg = 6.047343e-01
+iter 23: f = 1.905598e+00, norg = 6.040517e-01
+iter 24: f = 1.901773e+00, norg = 6.032762e-01
+iter 25: f = 1.898140e+00, norg = 6.023874e-01
+iter 26: f = 1.894681e+00, norg = 6.013659e-01
+iter 27: f = 1.891382e+00, norg = 6.001932e-01
+iter 28: f = 1.888230e+00, norg = 5.988531e-01
+iter 29: f = 1.885213e+00, norg = 5.973331e-01
+iter 30: f = 1.882320e+00, norg = 5.956253e-01
+iter 31: f = 1.879541e+00, norg = 5.937280e-01
+iter 32: f = 1.876868e+00, norg = 5.916461e-01
+iter 33: f = 1.874294e+00, norg = 5.893918e-01
+iter 34: f = 1.871811e+00, norg = 5.869844e-01
+iter 35: f = 1.869415e+00, norg = 5.844489e-01
+iter 36: f = 1.867098e+00, norg = 5.818152e-01
+iter 37: f = 1.864856e+00, norg = 5.791153e-01
+iter 38: f = 1.862686e+00, norg = 5.763820e-01
+iter 39: f = 1.860581e+00, norg = 5.736469e-01
+iter 40: f = 1.858539e+00, norg = 5.709383e-01
+iter 41: f = 1.856556e+00, norg = 5.682805e-01
+iter 42: f = 1.854629e+00, norg = 5.656933e-01
+iter 43: f = 1.852755e+00, norg = 5.631916e-01
+iter 44: f = 1.850931e+00, norg = 5.607856e-01
+iter 45: f = 1.849155e+00, norg = 5.584815e-01
+iter 46: f = 1.847424e+00, norg = 5.562820e-01
+iter 47: f = 1.845737e+00, norg = 5.541868e-01
+iter 48: f = 1.844090e+00, norg = 5.521935e-01
+iter 49: f = 1.842483e+00, norg = 5.502981e-01
+iter # 50: f = 1.84248276674474, |df| = 5.5030e-01
+CPUtime = 1.895305e+01, iter = 50
+n_correct = 2076, n_wrong = 87, accuracy 9.597781e-01 percent
+diary off

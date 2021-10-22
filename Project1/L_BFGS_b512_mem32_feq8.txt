@@ -1,0 +1,61 @@
+Drive_SLBFGS
+There are 6742 1's and 6265 7's in training data
+There are 1135 1's and 1028 7's in test data
+       13007
+
+    20
+
+iter = 1, objective = 5.675814e+00, with grad norm = 3.054557e+00
+iter = 2, objective = 4.229492e+00, with grad norm = 2.549364e+00
+iter = 3, objective = 3.690962e+00, with grad norm = 1.758564e+00
+iter = 4, objective = 2.870792e+00, with grad norm = 2.289292e+00
+iter = 5, objective = 2.647158e+00, with grad norm = 1.189376e+00
+iter = 6, objective = 2.413876e+00, with grad norm = 1.001664e+00
+iter = 7, objective = 2.078917e+00, with grad norm = 1.788209e+00
+iter = 8, objective = 1.053202e+00, with grad norm = 3.842204e-01
+iter = 9, objective = 9.843398e-01, with grad norm = 2.856699e-01
+iter = 10, objective = 8.467723e-01, with grad norm = 6.617886e-01
+iter = 11, objective = 8.216204e-01, with grad norm = 2.408650e-01
+iter = 12, objective = 8.046627e-01, with grad norm = 2.109901e-01
+iter = 13, objective = 8.099849e-01, with grad norm = 1.208904e-01
+iter = 14, objective = 7.952878e-01, with grad norm = 2.014755e-01
+iter = 15, objective = 7.580973e-01, with grad norm = 2.613480e-01
+iter = 16, objective = 6.590797e-01, with grad norm = 2.879886e-01
+iter = 17, objective = 6.118001e-01, with grad norm = 2.642207e-01
+iter = 18, objective = 5.934130e-01, with grad norm = 4.084097e-01
+iter = 19, objective = 5.601145e-01, with grad norm = 9.606221e-02
+iter = 20, objective = 5.721806e-01, with grad norm = 2.620609e-01
+iter = 21, objective = 5.793140e-01, with grad norm = 2.396073e-01
+iter = 22, objective = 5.060372e-01, with grad norm = 6.792728e-02
+iter = 23, objective = 4.863717e-01, with grad norm = 5.086426e-01
+iter = 24, objective = 5.054351e-01, with grad norm = 3.875405e-01
+iter = 25, objective = 4.887765e-01, with grad norm = 4.670186e-01
+iter = 26, objective = 5.104103e-01, with grad norm = 5.632633e-01
+iter = 27, objective = 4.806388e-01, with grad norm = 4.237956e-01
+iter = 28, objective = 4.976919e-01, with grad norm = 7.121688e-01
+iter = 29, objective = 4.785246e-01, with grad norm = 3.604385e-01
+iter = 30, objective = 4.777729e-01, with grad norm = 2.267229e-01
+iter = 31, objective = 5.072371e-01, with grad norm = 2.981160e-01
+iter = 32, objective = 4.234825e-01, with grad norm = 3.697987e-01
+iter = 33, objective = 4.124960e-01, with grad norm = 1.225531e-01
+iter = 34, objective = 4.132355e-01, with grad norm = 2.976913e-01
+iter = 35, objective = 4.034621e-01, with grad norm = 5.659321e-02
+iter = 36, objective = 3.886091e-01, with grad norm = 1.238741e-01
+iter = 37, objective = 3.927421e-01, with grad norm = 2.046775e-01
+iter = 38, objective = 3.764012e-01, with grad norm = 1.704445e-01
+iter = 39, objective = 4.203238e-01, with grad norm = 2.734973e-01
+iter = 40, objective = 3.466775e-01, with grad norm = 1.852413e-01
+iter = 41, objective = 3.458898e-01, with grad norm = 1.096647e-01
+iter = 42, objective = 3.420067e-01, with grad norm = 2.335179e-01
+iter = 43, objective = 3.759747e-01, with grad norm = 2.212148e-01
+iter = 44, objective = 3.634448e-01, with grad norm = 9.028473e-02
+iter = 45, objective = 3.703495e-01, with grad norm = 2.065321e-01
+iter = 46, objective = 3.391965e-01, with grad norm = 1.985350e-01
+iter = 47, objective = 3.324893e-01, with grad norm = 5.917116e-02
+iter = 48, objective = 3.357974e-01, with grad norm = 1.605234e-01
+iter = 49, objective = 3.298491e-01, with grad norm = 1.850661e-01
+iter = 50, objective = 3.270163e-01, with grad norm = 4.892164e-02
+iter = 51, objective = 3.306977e-01, with grad norm = 2.677993e-01
+Stochastic L-BFGS: Fail to find a local solution, iter = 51, with grad norm = 2.677993e-01
+n_correct = 2128, n_wrong = 35, accuracy 9.838188e-01 percent
+diary off
